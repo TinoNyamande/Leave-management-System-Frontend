@@ -1,0 +1,38 @@
+.my-side-bar {
+    width: 100%;
+    height: 100vh;
+    margin-top: 0%;
+    border-top: solid 1px white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sidebar-box {
+    margin-top: 30%;
+    text-align: left;
+    color: white;
+    padding-left: 5%;
+}
+.my-container {
+    margin-left: 0%;
+    margin-right: 0%;
+    display: flex;
+}
+.small-column {
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+}
+
+.big-column {
+    margin: 0%;
+    background-color:lightgray;
+    padding: 0%;
+    width: 90%;
+}
+.my-row {
+    margin: 0%;
+    padding: 0%;
+}
+.h-link {
+    text-decoration: none;
+    color: white;
+}

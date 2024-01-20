@@ -1,0 +1,44 @@
+.login-container {
+    height: 100vh;
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+   
+}
+.login-box {
+    margin: 3%;
+    padding: 3%;
+}
+
+.login-column {
+    margin-top: 10vh;
+    background-color: lightblue;
+    border-radius: 5%;
+    padding: 3%;
+}
+.login-first-row {
+    height: 10vh;
+}
+.login-header-container {
+    text-align: center;
+    margin-bottom: 2vh;
+}
+.forgot-password {
+    text-align: center;
+    text-decoration: none;
+}
+
+.login-modal {
+    width: 40%;
+    height: 20vh;
+    padding-top: 4vh;
+    text-align: center;
+    margin-top: 30vh;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+    background-color:skyblue;
+    border-radius: 5%;
+    
+}

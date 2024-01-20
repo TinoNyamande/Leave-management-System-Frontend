@@ -1,0 +1,17 @@
+
+.table-header {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.table-row {
+    overflow: auto;
+    max-height: 60vh;
+    
+}
+.get-all-table {
+    overflow:auto;
+    border-radius: 2%;
+}
+.get-all-table-head {
+    font-size: 120%;
+}

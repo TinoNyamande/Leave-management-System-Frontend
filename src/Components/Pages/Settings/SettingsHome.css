@@ -1,0 +1,22 @@
+.p-container {
+    display: flex;
+    background-color: lightblue;
+    height: 100vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p-col{
+    width: 50%;
+    border: solid 1px black;
+    background-color: lightgray;
+    height: 50vh;
+    margin: 3%;
+    border-radius: 5%;
+    text-align: center;
+    padding-top: 2%;
+}
+.p-icon {
+    color: gray;
+}
+.p-action {
+    text-align: right;
+}

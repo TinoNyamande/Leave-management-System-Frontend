@@ -1,0 +1,20 @@
+.register-container {
+    background:inherit;
+    height: 100vh;
+    margin: 0%;
+    padding: 0%;
+   
+}
+.register-box {
+    padding: 1%;
+}
+
+.register-column {
+    margin-top: 5vh;
+    background-color: lightblue;
+    border-radius: 5%;
+    overflow:auto;
+}
+.register-first-row {
+    height: 5vh;
+}

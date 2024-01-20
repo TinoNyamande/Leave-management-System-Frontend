@@ -1,0 +1,21 @@
+
+.report-container {
+    margin-left: 3%;
+    margin-right: 0%;
+}
+.main-report-body {
+    width: 100%;
+    border-radius: 3%;
+    height: 100vh;
+    overflow: auto;
+}
+.report-table {
+    height: 50vh;
+    overflow:auto;
+}
+.report-row {
+    height: 60vh;
+}
+.reports-header {
+    text-align: center;
+}
